@@ -44,16 +44,7 @@ Flask api,
 Weglot,
 Stripe API
 
-
-
-
-
-**Team Members:**
-Karthik Dani,
-Abdul Amaan ,
-Harini N ,
-R Varsha Bantia,
-Jayanth M N
+Created By Rashi Gupta
 
 
 
@@ -66,4 +57,3 @@ Jayanth M N
 
 
 
-# Ravenclaw
